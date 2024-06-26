@@ -128,7 +128,7 @@ func printHeader() {
 	c.Println(`  \___//_/\_\______|_|_| |_| |_|\___/|_| |_|`)
 	c.Println(`                                            `)
 	c.Println(`                                            `)
-	c.Println("  x.com/zxLimon_")
+	c.Println("  https://github.com/0xlimon")
 	c.Println("******************************************************")
 }
 
