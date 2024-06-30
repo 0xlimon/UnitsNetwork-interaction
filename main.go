@@ -24,8 +24,8 @@ const (
 	rpcURL        = "https://rpc-testnet.unit0.dev"
 	minEthToSend  = 0.000001
 	maxEthToSend  = 0.000005
-	minGasPrice   = 900000000
-	maxGasPrice   = 1500000000
+	minGasPrice   = 900000
+	maxGasPrice   = 1500000
 	gasLimit      = 21000
 	retryDelay    = 5 * time.Second
 	maxRetries    = 5
